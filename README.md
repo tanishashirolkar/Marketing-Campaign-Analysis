@@ -6,6 +6,12 @@ This project focuses on analyzing the performance of bank marketing campaigns us
 
 Using Exploratory Data Analysis (EDA), data cleaning, feature engineering, and data visualization, this project converts raw marketing data into meaningful insights that can support data-driven marketing decisions.
 
+## Project Files
+
+- [Jupyter Notebook – Complete Python Analysis](marketing_campaign_analysis_v2.ipynb)
+- [HTML Report – View Analysis and Visualizations](marketing_campaign_analysis_v2.html)
+- [Dataset Source – UCI Bank Marketing](https://archive.ics.uci.edu/dataset/222/bank+marketing)
+- 
 ## Project Objectives
 
 - Analyze customer demographics and account-related information.
