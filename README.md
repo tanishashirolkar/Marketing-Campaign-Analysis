@@ -11,7 +11,8 @@ Using Exploratory Data Analysis (EDA), data cleaning, feature engineering, and d
 - [Jupyter Notebook – Complete Python Analysis](marketing_campaign_analysis_v2.ipynb)
 - [HTML Report – View Analysis and Visualizations](marketing_campaign_analysis_v2.html)
 - [Dataset Source – UCI Bank Marketing](https://archive.ics.uci.edu/dataset/222/bank+marketing)
-- 
+
+  
 ## Project Objectives
 
 - Analyze customer demographics and account-related information.
